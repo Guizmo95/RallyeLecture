@@ -1,0 +1,38 @@
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\bin\Debug\RallyeLecture.exe.config
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\bin\Debug\RallyeLecture.exe
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\bin\Debug\RallyeLecture.pdb
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\bin\Debug\MySql.Data.xml
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csprojAssemblyReference.cache
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.AlimentationBase.resources
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.Login.resources
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.Properties.Resources.resources
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csproj.GenerateResource.cache
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csproj.CopyComplete
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.exe
+D:\Yanis\Rayhane\Nouveau dossier\Projet\RallyeLecture-master\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.pdb
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\bin\Debug\RallyeLecture.exe.config
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\bin\Debug\RallyeLecture.exe
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\bin\Debug\RallyeLecture.pdb
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\bin\Debug\MySql.Data.dll
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\bin\Debug\MySql.Data.xml
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.csprojAssemblyReference.cache
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.AlimentationBase.resources
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.Login.resources
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.Properties.Resources.resources
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.csproj.GenerateResource.cache
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.csproj.CoreCompileInputs.cache
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.csproj.CopyComplete
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.exe
+C:\Users\mbigot\source\repos\RallyeLecture\RallyeLecture\obj\Debug\RallyeLecture.pdb
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\bin\Debug\RallyeLecture.exe.config
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\bin\Debug\RallyeLecture.exe
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\bin\Debug\RallyeLecture.pdb
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.AlimentationBase.resources
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.Login.resources
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.Properties.Resources.resources
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csproj.GenerateResource.cache
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csproj.CoreCompileInputs.cache
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csproj.CopyComplete
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.exe
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.pdb
+D:\Yanis\Rayhane\Nouveau dossier\VisualStudio\RallyeLecture-master\RallyeLecture\obj\Debug\RallyeLecture.csprojAssemblyReference.cache
