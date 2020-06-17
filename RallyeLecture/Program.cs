@@ -16,7 +16,7 @@ namespace RallyeLecture
         [STAThread]
         static void Main()
         {
-            Application.Run(new Login(5));
+            Application.Run(new Login());
         }
     }
 }
